@@ -46,4 +46,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Image (Screen Shot 2023-04-27 at 5.53.25 PM.png)
 
-##
+## Link to Heroku Deployed Link (https://agile-savannah-32561.herokuapp.com/)
+
+## Link to Github Repo (https://github.com/CGoddard1/employee-tracker-SQL)
